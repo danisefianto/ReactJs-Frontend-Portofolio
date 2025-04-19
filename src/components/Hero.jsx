@@ -9,6 +9,7 @@ const Hero = () => {
           <p className='text-[#00df9a] font-bold'> GROWING WITH DATA ANALYTICS</p>
           <h1 className='font-bold text-xl sm:text-3xl md:text-4xl'>Grow With Data</h1>
           <div className='flex justify-center items-center'>
+          <div className='flex flex-col md:flex-row md:text-[20px] text-[14px] '>
           <p>Fast, flexible financing for</p>
           <ReactTyped className='md:pl-2 ' 
             strings={[" BTB", "BTC", "SASS"]}
@@ -16,6 +17,7 @@ const Hero = () => {
             backSpeed={60}
             loop
           />
+          </div>
           </div>
           <p className='mt-4 mb-3  text-stone-500'>Monirtor your data analytics to increase revenue for BTB, BTC, & SASS platforms</p>
           <button className='button bg-[#00df9a] w-[200px] rounded-md font-medium mx-auto py-3 '>Get Started</button>
