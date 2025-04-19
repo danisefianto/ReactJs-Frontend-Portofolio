@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.button:hover {
+    cursor: pointer;
+    
+}
+
+.icon {
+    color: #00df9a; 
+    transition: color 0.3s ease-in-out; 
+  }
+  
+  .icon:hover {
+    color: whitesmoke;
+  } 
