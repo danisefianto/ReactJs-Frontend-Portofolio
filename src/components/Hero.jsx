@@ -19,7 +19,7 @@ const Hero = () => {
           />
           </div>
           </div>
-          <p className='mt-4 mb-3  text-stone-500'>Monirtor your data analytics to increase revenue for BTB, BTC, & SASS platforms</p>
+          <p className='mt-4 mb-3  text-stone-500'>Monitor your data analytics to increase revenue for BTB, BTC, & SASS platforms</p>
           <button className='button bg-[#00df9a] w-[200px] rounded-md font-medium mx-auto py-3 '>Get Started</button>
           </div>
     </div>
