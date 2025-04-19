@@ -11,7 +11,7 @@ const Hero = () => {
           <div className='flex justify-center items-center'>
           <p>Fast, flexible financing for</p>
           <ReactTyped className='md:pl-2 ' 
-            strings={["BTB", "BTC", "SASS"]}
+            strings={[" BTB", "BTC", "SASS"]}
             typeSpeed={40}  
             backSpeed={60}
             loop
